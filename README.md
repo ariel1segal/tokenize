@@ -1,3 +1,16 @@
+Tokenizer Module
+----------------
+
+Environment:
+The code of this work was compiled with the GNU C++ compiler, and tested on an
+Ubuntu 14.04 system. However, this work does not contain any platform dependent
+code, and in theory it is completable with any system (such as Windows).
+
+The tarball contains the following files:
+1. README - this file
+2. LICENSE - the terms under this work is distributed
+3. In 'src' directory is the source code:
+3.1. main.cpp
 3.2. tokens.cpp
 3.3. tokens.h
 3.4. Makefile
